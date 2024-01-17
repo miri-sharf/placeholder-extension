@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Placeholder Button Extension",
     "version": "1.0",
     "description": "Adds a button next to an input with autofill from placeholder.",
