@@ -3,9 +3,6 @@
     "name": "Placeholder Button Extension",
     "version": "1.0",
     "description": "Adds a button next to an input with autofill from placeholder.",
-    "permissions": [
-        "activeTab"
-    ],
     "content_scripts": [
         {
             "matches": [
